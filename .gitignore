@@ -1,0 +1,4 @@
+*.o
+build-*-Debug/
+build-*-Release/
+*.user
